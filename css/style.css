@@ -2,7 +2,7 @@
 Theme Name:
 Author: yaminncco
 
-Colors:
+Colors: 
 	Body 		  : #868F9B
 	Headers 	: #10161A
 	Primary 	: grey
@@ -1155,7 +1155,8 @@ header {
 	Team
 \*------------------------------------*/
 
-.team {
+.team,
+.team-info {
     position: relative;
     background-color: #F4F4F4;
     padding: 40px 20px;
